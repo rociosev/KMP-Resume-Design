@@ -1,0 +1,117 @@
+Ketan Mayer-Patel
+
+Associate Professor
+
+Department of Computer Science
+
+University of North Carolina
+
+154 Fred Brooks Building
+CB #3175
+Chapel Hill, NC 27599
+kmp@cs.unc.edu
+919-590-6009
+Education
+
+Ph.D. University of California, Berkeley, 1999
+Parallel Software-only Video Effects Processing
+M.S. University of California, Berkeley, 1997
+Design and Performance of the Berkeley Continuous Media Toolkit
+B.A. University of California, Berkeley, 1992
+Majors: Computer Science and Economics
+Professional Experience
+
+Associate Professor
+University of North Carolina, Chapel Hill, NC
+August 2005 - present
+Assistant Professor
+University of North Carolina, Chapel Hill, NC
+January 2000 - August 2005
+Visiting Researcher
+Microsoft Bay Area Research Center, San Francisco, CA
+June 2003 - December 2003
+Graduate Student Researcher
+University of California, Berkeley, CA
+June 1993 - November 1999
+Graduate Student Instructor
+University of California, Berkeley, CA
+August 1997 - December 1997
+Programmer
+University of California, Berkeley, CA
+June 1992 - June 1993
+Programmer
+United States Department of Agriculture, Albany, CA
+May 1991 - June 1992
+Honors and Notables
+
+National Science Foundation, CAREER Award, 2003
+Computer Science Student Association Teaching Award, 2003
+Associate Editor, ACM Transactions on Multimedia, 2005-2014
+Assoicate Editor, IEEE Transactions on Multimedia, 2008-2011
+Bio
+
+Prof. Mayer-Patel received his Ph.D from the University of California, Berkeley in 1999. He subsequently joined the faculty at the University of North Carolina where he is currently an Associate Professor. His research generally investigates challenges associated with streaming of compressed media within large-scale distributed systems such as tele-immersion.
+Ketan Mayer-Patel
+Reasearch
+
+Recoverable Video Adaptation
+Existing video adaptation techniques generally lead to irreversibly loss of video quality. In this project, we are exploring adaptation techniques that can be used to recover high (or at least higher) quality video from a set of independently constructed lower quality representations.
+n-Dimensional Display Interface
+The frame buffer has been the predominant abstraction display interfaces since the rise of raster displays. Despite the success of the framebuffer, it imposes serious restrictions that jeopardize its applicability in the face of new, emerging display challenges such as very large displays and mobile low-power displays. In this research, we are exploring a new narrow waist interface for display resources built around a parallel architecture suitable for scalability with respect to both size and power.
+Streaming for Visualization
+We are investigating a general framework for supporting remote interactive exploration of large-scale scientific data that allows for smoothly negotiated trade-offs between model streaming and view streaming and deeply integrated application-level knowledge with high- speed transport-level protocol mechanisms. The key mechanism in our approach is replicating the rendering process at both source and destination as part of parallel model/view streaming pipelines that are integrated into view prediction.
+Streaming for Vision
+Modern multimedia codecs for video compression built into low cost cameras are all highly optimized for the human consumer. In other words, lossy techniques introduce error that is least perceptible by people. If, however, these codecs need to be incorporated into a system that using machine vision, these design choices may not be appropriate. We are developing a framework for integrating state of the are multimedia encoding and streaming techniques with state of the art vision algorithms in order to more effectively realize large-scale vision- based video processing systems.
+Teaching
+
+COMP 116: Introduction to Scientific Programming
+This course is intended for science majors outside of Computer Science and introduces them to basic programming practices in the context of scientific data analysis and visualization.
+Last taught: Spring 2010
+COMP 401: Foundations of Programming
+This course is intended for people who already have some experience with programming. Its goal is to teach you how to program well in an object-oriented style. Object-oriented programming emphasizes a modular design that promotes code reuse and structrued solutions for complex problems that are easier to change and mantain. Almost all modern programming languages rely on some sort of object-oriented programming model.
+Last taught: Fall 2015
+COMP 416: Introduction to Web Programming
+This course is intended for non-majors with limited programming experience. It introduces to fundamental client-side web programming technologies including HTML5, CSS, and JavaScript.
+Last taught: Fall 2013
+COMP 426: Advanced Web Programming
+This course is intended for majors with intermediate programming experience. Students fully develop a modern AJAX-based web application and covers both client-side and server-side technologies including HTML5, CSS, JavaScript, jQuery, PHP, and MySQL.
+Last taught: Fall 2015
+COMP 832: Multimedia Computing and Networking
+This course is an advanced graduate-level course that covers the fundamental concepts in multimedia computing and networking. Students are expected to complete an extensive final project, some of which have led to publications in refereed conferences and workshops.
+Last taught: Spring 2014
+Selected Publications
+
+Refereed Journals
+
+J. Greenberg, S. Trujillo, and K. Mayer-Patel
+YouTube: Applying FRBR and Exploring the Multiple Description Coding Compression Model
+Cataloging & Classification Quarterly, vol. 50, issue 5-7, 2012 (20 pages)
+K. Mayer-Patel and D. Gotz
+Scalable, Adaptive Streaming for Nonlinear Media
+IEEE Multimedia, vol. 14, no. 3 (15 pages)
+D. Ott and K. Mayer-Patel
+An open architecture for transport-level protocol coordination for distributed multimedia applications
+ACM Transactions on Multimedia Computing, Communications, and Applications, vol. 3, no. 3 (22 pages)
+K. Mayer-Patel, B. Smith, and L.A. Rowe
+The Berkeley software MPEG-1 video decoder
+ACM Transactions on Multimedia Computing, Communications, and Applications, vol. 1, no. 1 (23 pages)
+Refereed Conferences and Workshops
+
+C.D. Estes and K. Mayer-Patel
+Video killed the data store: extending the n-dimensional display interface for full screen video
+Proceedings of ACM Multimedia 2015 (MM'15)
+C.D. Estes and K. Mayer-Patel
+The n-dimensional display interface: a more elastic narrow waist for the display pipeline
+Proceedings of the 3rd Multimedia Systems Conference (MMSys '12)
+C.D. Estes and K. Mayer-Patel
+Moving Beyond the Framebuffer
+Proceedings of the 21st International Workshop on Network and Operating System Support for Digital Audio and Video (NOSSDAV 2011)
+K. Mayer-Patel
+Systems challenges of media collectives: Supporting media collectives with adaptive MDC
+Proceedings of the 15th International ACM Conference on Multimedia
+D. Gotz and K. Mayer-Patel
+A general framework for multidimensional adaptation
+Proceedings of the 12th International ACM Conference on Multimedia
+D. Ott and K. Mayer-Patel
+Coordinated multi-streaming for 3D tele-immersion
+Proceedings of the 12th International ACM Conference on Multimedia
