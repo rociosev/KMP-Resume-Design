@@ -1,0 +1,99 @@
+
+body{
+    margin: 0% 5% 0% 5%;
+}
+h1{
+    margin: 0px;
+    color: #7BAFD4;
+    font-family: Helvetica;
+}
+h2, h3{
+    font-family: sans-serif;
+    margin-bottom: 0px;
+}
+
+h2{
+font-family: sans-serif;
+}
+
+h3{
+    margin-top: 0px;
+    font-size: 15px;
+}
+
+h6{
+    margin-top: 0px;
+    color: gray;   
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+.top{   
+   position: relative;
+   margin: 0px;
+   border-bottom: groove thick;   
+}
+.top-text{
+    font-family: garamond,serif;
+    float: left;
+    padding-left: 30%;
+    text-align: center;
+}
+.contact{
+    color: #6B8FB2;
+    text-align: right;
+}
+#dates{
+    font-style: italic;
+}
+.classes{
+    width:60%;
+}
+#class-name{
+    font-weight: 900;
+    margin-bottom: 0px;
+    border-bottom: dashed 1px #6B8FB2;
+}
+#class-name:hover{
+    font-weight: 100;
+    color: inherit;
+}
+.carolina-pic{
+    float: right;
+    width: 25%;
+    height: 25%;
+    padding: 2%;
+    border: double 3px #7BAFD4;
+      margin-top: 1%;
+        margin-right: 5%;
+}
+.caption{
+    float: right;
+}
+#personal-bio{
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+    font-size: 20px;
+}
+.bio-pic{
+    float: right;
+    width: 15%;
+    height: 15%;
+    padding: 2%;
+    margin-right: 5%;
+    margin-top: 1%;
+    border: double 3px #7BAFD4;
+    vertical-align: middle;
+}
+.title-education{
+    font-size: 20px;
+}
+#research-titles{
+ font-weight: 900;
+    margin-bottom: 0px;
+    border-bottom: dashed 1px #6B8FB2;   
+}
