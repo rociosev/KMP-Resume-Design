@@ -1,0 +1,152 @@
+h1{
+margin-bottom: 0px;
+    color: #7BAFD4;
+    font-family: Helvetica;
+    text-align: center;
+    position: relative;
+    width: 80%;
+}
+
+h2, h3{
+   font-family: arial;
+   margin-top: 0px;
+   padding-top: 0px;
+    color: gray;
+    font-size: 10px;
+    text-align: center;
+    position: relative;
+    width: 80%;
+    }
+    
+h4{
+       margin-bottom: 0px;
+      font-size: 1.5em;
+}
+ul{
+   margin: 0px;
+}
+#demographic, #research, #teaching, #publications{
+       padding-left: 10%;
+       padding-right: 10%;
+}
+/*#demographic, h3{
+   margin-top: 0px !important;
+   text-align: center !important;
+}*/
+
+#contact{
+    color: #6B8FB2;
+    float: right;
+    width: 20%;
+    margin-top: -100px;
+   
+}
+#biographical{
+   margin-top: 30px;
+    border-top: groove thick;
+    padding-bottom: 0px;
+}
+/*#biographical, #prof_experience, #notables{
+       text-align: left !important;
+}
+.education{
+      padding-top: 5px;
+      font-size: 15px !important;
+      margin-top: 0px !important;
+}*/
+.degree, .school{
+   font-style: italic;
+   font-weight: 500;
+   }
+   
+.jobtitle,p{
+      font-size: 16px;
+      font-weight: bolder;
+   }
+.employer, p{
+      font-style: italic;
+   }
+   
+#notables{
+      padding-bottom: 10px;
+      border-bottom: 5px solid #000000;
+   }
+#teaching.title{
+   font-style: italic;
+}
+
+
+img{
+      float: right;
+    width: 15%;
+    height: 15%;
+    padding: 2%;
+    margin-right: 5%;
+    margin-top: 1%;
+    border: double 3px #7BAFD4;
+    vertical-align: middle;
+}
+
+#research,h3{
+   font-size: large;
+      margin-top: 20px;
+      color: #000000;
+}
+/*
+#research, .description{
+   font-weight: normal !important;
+}
+#research, .title{
+   font-weight: 900 !important;
+}
+
+#citation, .title, #conferences, .title{
+   font-weight: normal !important;
+}
+
+#teaching, .title{
+  font-weight: 900 !important;
+   margin-bottom: 0px;
+   
+}*/
+#teaching, .last{
+  font-weight: normal;
+    margin-bottom: 5px;
+  /*  border-bottom: none !important;*/
+    font-style: italic;
+}
+#teaching, .title:hover{
+    font-style: italic;
+    color: inherit;
+}
+
+#teaching, .description{
+   /* font-weight: normal !important;*/
+    font-style: normal;
+}
+
+#publications , h3{
+   margin-top: 20px;
+}
+#journals, .title{
+   font-weight: normal;
+}
+.authors{
+   font-weight: bolder;
+}
+
+#citation, .title:hover{
+    font-style: normal;
+}
+h4:hover, h3:hover{
+   color: #6B8FB2;
+}
+.publication{
+   margin-bottom: 5px;
+}
+#teaching, .title{
+   font-weight: bold;
+}
+#teahing, .description{
+   font-weight: normal;
+}
