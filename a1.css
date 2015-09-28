@@ -1,86 +1,83 @@
-
-body{
-    margin: 0% 5% 0% 5%;
-}
 h1{
-    margin: 0px;
+margin-bottom: 0px;
     color: #7BAFD4;
     font-family: Helvetica;
+    text-align: center;
+    position: relative;
+    width: 80%;
 }
+
 h2, h3{
-    font-family: sans-serif;
-    margin-bottom: 0px;
+   font-family: arial;
+   margin-top: 0px;
+   padding-top: 0px;
+    color: gray;
+    font-size: 10px;
+    text-align: center;
+    position: relative;
+    width: 80%;
+    }
+    
+h4{
+       margin-bottom: 0px;
+      font-size: 1.5em;
 }
-
-h2{
-font-family: sans-serif;
-}
-
-h3{
-    margin-top: 0px;
-    font-size: 15px;
-}
-
-h6{
-    margin-top: 0px;
-    color: gray;   
-}
-
-a{
-    color: black;
-    text-decoration: none;
-}
-
-.top{   
-   position: relative;
+ul{
    margin: 0px;
-   border-bottom: groove thick;   
 }
-.top-text{
-    font-family: garamond,serif;
-    float: left;
-    padding-left: 30%;
-    text-align: center;
+#demographic, #research, #teaching, #publications{
+       padding-left: 10%;
+       padding-right: 10%;
 }
-.contact{
+/*#demographic, h3{
+   margin-top: 0px !important;
+   text-align: center !important;
+}*/
+
+#contact{
     color: #6B8FB2;
-    text-align: right;
-}
-#dates{
-    font-style: italic;
-}
-.classes{
-    width:60%;
-}
-#class-name{
-    font-weight: 900;
-    margin-bottom: 0px;
-    border-bottom: dashed 1px #6B8FB2;
-}
-#class-name:hover{
-    font-weight: 100;
-    color: inherit;
-}
-.carolina-pic{
     float: right;
-    width: 25%;
-    height: 25%;
-    padding: 2%;
-    border: double 3px #7BAFD4;
-      margin-top: 1%;
-        margin-right: 5%;
+    width: 20%;
+    margin-top: -100px;
+   
 }
-.caption{
-    float: right;
+#biographical{
+   margin-top: 30px;
+    border-top: groove thick;
+    padding-bottom: 0px;
 }
-#personal-bio{
-    background-color: #000000;
-    color: #ffffff;
-    text-align: center;
-    font-size: 20px;
+/*#biographical, #prof_experience, #notables{
+       text-align: left !important;
 }
-.bio-pic{
-    float: right;
+.education{
+      padding-top: 5px;
+      font-size: 15px !important;
+      margin-top: 0px !important;
+}*/
+.degree, .school{
+   font-style: italic;
+   font-weight: 500;
+   }
+   
+.jobtitle,p{
+      font-size: 16px;
+      font-weight: bolder;
+   }
+.employer, p{
+      font-style: italic;
+   }
+   
+#notables{
+      padding-bottom: 10px;
+      border-bottom: 5px solid #000000;
+   }
+#teaching.title{
+   font-style: italic;
+}
+
+
+img{
+      float: right;
     width: 15%;
     height: 15%;
     padding: 2%;
@@ -89,11 +86,67 @@ a{
     border: double 3px #7BAFD4;
     vertical-align: middle;
 }
-.title-education{
-    font-size: 20px;
+
+#research,h3{
+   font-size: large;
+      margin-top: 20px;
+      color: #000000;
 }
-#research-titles{
- font-weight: 900;
-    margin-bottom: 0px;
-    border-bottom: dashed 1px #6B8FB2;   
+/*
+#research, .description{
+   font-weight: normal !important;
+}
+#research, .title{
+   font-weight: 900 !important;
+}
+
+#citation, .title, #conferences, .title{
+   font-weight: normal !important;
+}
+
+#teaching, .title{
+  font-weight: 900 !important;
+   margin-bottom: 0px;
+   
+}*/
+#teaching, .last{
+  font-weight: normal;
+    margin-bottom: 5px;
+  /*  border-bottom: none !important;*/
+    font-style: italic;
+}
+#teaching, .title:hover{
+    font-style: italic;
+    color: inherit;
+}
+
+#teaching, .description{
+   /* font-weight: normal !important;*/
+    font-style: normal;
+}
+
+#publications , h3{
+   margin-top: 20px;
+}
+#journals, .title{
+   font-weight: normal;
+}
+.authors{
+   font-weight: bolder;
+}
+
+#citation, .title:hover{
+    font-style: normal;
+}
+h4:hover, h3:hover{
+   color: #6B8FB2;
+}
+.publication{
+   margin-bottom: 5px;
+}
+#teaching, .title{
+   font-weight: bold;
+}
+#teahing, .description{
+   font-weight: normal;
 }
